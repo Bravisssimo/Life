@@ -66,7 +66,7 @@ public class FenetreAccueil extends JFrame implements ActionListener {
 		univers = "";
 		
 		//paramètrage de la fenêtre
-		this.setTitle("Jeu d'alcool");
+		this.setTitle("Life");
         this.setSize(width,height);
         this.setResizable(false);
         this.setLocationRelativeTo(null);
