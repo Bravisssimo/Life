@@ -98,7 +98,7 @@ public class consigne {
 		String[] T0dDikk = trouverJoueurs(tabJoueurs, 3);
 		tableauDestin[0] = T0dDikk[0]+", choisis le meilleur cuistot entre"+T0dDikk[1]+"et"+T0dDikk[2]+", il récupère 3 vies";
 		String[] T1dDikk = trouverJoueurs(tabJoueurs, 3); 
-		tableauDestin[1] =  " gab la suceuse";
+		tableauDestin[1] =  ".......";
 		String[] T2dDikk = trouverJoueurs(tabJoueurs, 3);
 		tableauDestin[2] =  " ......";
 		String[] T3dDikk = trouverJoueurs(tabJoueurs, 3);
