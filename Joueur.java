@@ -15,7 +15,5 @@ public class Joueur {
 		vivant=true;
 		vie=20;
 		classement=1;
-	}
-	
-		
+	}		
 }
