@@ -6,8 +6,8 @@ import java.awt.GridLayout;
 
 public class FenetreAccueil extends JFrame implements ActionListener {
 			
-	//Attributs fenêtre
-	int height=700;
+    //Attributs fenêtre
+    int height=700;
     int width=1000;
     JPanel pan;
     JPanel conteneurJoueur;
